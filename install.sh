@@ -1,6 +1,6 @@
 #!/bin/bash
-mkdir developement
-cd developement
+mkdir development
+cd development
 
 virtualenv .
 
